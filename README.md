@@ -1,3 +1,6 @@
-# Data Structures for Class 12
-------------------------------
-Class 12 C++ Data Structures program repository. :wink:
+# Class 12 C++ programs
+Class 12 C++ programs repository. :wink:
+
+## Commits
+|1|Added Circular Queue|
+|2|Added some of C++ practical questions|

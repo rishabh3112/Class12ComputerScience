@@ -1,2 +1,3 @@
-# DataStructures
-Class 12 C++ programs repository
+# Data Structures for Class 12
+------------------------------
+Class 12 C++ Data Structures program repository. :wink:

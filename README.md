@@ -1,5 +1,5 @@
 # Class 12 C++ programs
-Class 12 C++ programs as per [CBSE](https://cbse.nic.in/) Curriculum repository. :wink:
+Class 12 C++ programs as per [CBSE](http://cbse.nic.in/) Curriculum repository. :wink:
 
 ## Program descriptions
 |File Name|File Description|

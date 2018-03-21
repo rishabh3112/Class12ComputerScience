@@ -12,6 +12,8 @@ Others soon .. Exams on right now 😜
 |---|---|
 |1|Added Circular Queue|
 |2|Added some of C++ practical questions|
+|3|Added Dynamic Stack|
+|4|Added Dynamic Queue|
 
 ## Contributors
 - [Rishabh](https://rishabh3112.github.io/)

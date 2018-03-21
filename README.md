@@ -1,3 +1,4 @@
+     ![alt text](https://avatars2.githubusercontent.com/u/15812317?s=460&v=4)
 # Class 12 C++ programs
 Class 12 C++ programs as per [CBSE](http://cbse.nic.in/) Curriculum repository. :wink:
 
